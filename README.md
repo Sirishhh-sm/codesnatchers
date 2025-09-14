@@ -1,2 +1,1 @@
-# codesnatchers
-Here we are going to snatch some codes from stackoverflow.
+hii myself Srishti Mourya
